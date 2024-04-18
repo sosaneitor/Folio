@@ -7,12 +7,12 @@ const INFO = {
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
+		//twitter: "https://twitter.com/",
 		github: "https://github.com/sosaneitor",
 		linkedin: "https://www.linkedin.com/in/sebastian-sosa-serrano-5b1260232/",
 		instagram: "https://instagram.com/",
 		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		//facebook: "https://facebook.com/",
 	},
 
 	homepage: {
